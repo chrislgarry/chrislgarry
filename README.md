@@ -1,4 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrislgarry&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
-
+[![Chris' GitHub stats](https://github-stats-extended.vercel.app/api?username=chrislgarry)](https://github.com/stats-organization/github-stats-extended)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=chrislgarry.readme)
